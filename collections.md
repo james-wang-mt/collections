@@ -2,7 +2,15 @@ Python
 ======
 Validate_email
 --------------
-    https://github.com/syrusakbary/validate_email
+https://github.com/syrusakbary/validate_email
 Awsome project on github
 ------------------------
-    https://github.com/vinta/awesome-python
+https://github.com/vinta/awesome-python
+
+Gnuradio
+========
+https://github.com/gnuradio/gnuradio
+
+Hackrf
+------
+https://github.com/mossmann/hackrf

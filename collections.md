@@ -1,5 +1,8 @@
-* Python
-**  Validate_email
+Python
+======
+Validate_email
+--------------
     https://github.com/syrusakbary/validate_email
-** Awsome project on github
+Awsome project on github
+------------------------
     https://github.com/vinta/awesome-python

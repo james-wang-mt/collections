@@ -4,6 +4,7 @@ Email
 Awesome
 =======
 https://github.com/vinta/awesome-python
+https://github.com/emijrp/awesome-awesome
 
 Python
 ======

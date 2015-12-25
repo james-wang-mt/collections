@@ -5,6 +5,12 @@ https://github.com/NARKOZ/hacker-scripts
 
 Email
 =====
+http://www.magiksys.net/pyzmail/
+https://github.com/lavr/python-emails
+email for human beings
+http://blog.mailgun.com/we-just-open-sourced-flanker-our-python-email-address-and-mime-parsing-library/
+https://github.com/mailgun/flanker
+
 
 Awesome
 =======
